@@ -1,2 +1,2 @@
 # springcloudgateway
-Example of the SCG project using Consul as service discovery
+Example of the SCG project using Consul as discovery-service
