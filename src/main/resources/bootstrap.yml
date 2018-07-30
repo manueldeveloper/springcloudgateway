@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: spring-cloud-gateway
+  cloud:
+    consul:
+      enabled: true
+      host: localhost
+      port: 8500
